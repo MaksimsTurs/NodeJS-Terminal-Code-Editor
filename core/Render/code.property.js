@@ -1,4 +1,6 @@
 export default function code(buffer) {
+	console.clear()
+	
 	let index = 0
 	let bufferLength = buffer.length
 
